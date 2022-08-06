@@ -9,8 +9,7 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
-#file new
-.fileGitIgnorePrueba
+
 
 
 # Dump file
@@ -33,3 +32,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
+
+#file new
+.filePrueba.txt
